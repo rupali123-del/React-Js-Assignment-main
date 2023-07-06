@@ -1,0 +1,12 @@
+.NavContainer{
+    height: 75px;
+    box-shadow: 1px;
+    margin: auto;
+    background-color: rgb(19, 19, 19); 
+}
+.NavHeading{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
